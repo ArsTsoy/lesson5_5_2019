@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChocoLesson</string>
+    <string name="bought_count">%d</string>
+    <string name="price">от %d тг.</string>
+</resources>
